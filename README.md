@@ -28,8 +28,8 @@ També es preveu la possibilitat d’aplicar **mètodes d’anàlisi i predicci�
 | Nom | Rol | Responsabilitats principals |
 |------|------|-----------------------------|
 | **Cesc Molero** | QUE HACE AQUI AUN?? |  Desenvolupament de la web (HTML/React), machine learning, desplegament i documentació |
-| **Marc López** | Backend Developer | Desenvolupament de l’API REST amb FastAPI, autenticació i gestió d’usuaris |
-| **Eric Sánchez** | MARICA(DEIA EL FREDDY) |Backend, disseny de base de dades, gràfiques i disseny visual |
+| **Marc López** | Maurici Developer | Desenvolupament de l’API REST amb FastAPI, autenticació i gestió d’usuaris |
+| **Eric Sánchez** | Backend Developer |Backend, disseny de base de dades, gràfiques i disseny visual |
 
 ---
 
